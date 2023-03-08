@@ -1,18 +1,18 @@
-####Name: `Ihar Charvinsky`
-#####Address:	 `13 Morozova St, Brest,Belarus`
-#####Phone number:	`+375-29-805-83-71`
-#####Email:	igarcharvinsky@gmail.com
-#####Marital status: Married
+#### Name: `Ihar Charvinsky`
+##### Address:	 `13 Morozova St, Brest,Belarus`
+##### Phone number:	`+375-29-805-83-71`
+##### Email:	igarcharvinsky@gmail.com
+##### Marital status: Married
 _____
-#####Objective
+##### Objective
 I consider to be a part a of team company EPAM.
 
 ___
-#####Education
+##### Education
 2007 – May 2011
 Belarusian agricultural academy of Economics and enterprise management
 ___
-#####Work Experience
+##### Work Experience
 August 2011-April 2014
 Economist in a farming enterprise
 
@@ -31,7 +31,7 @@ function arrayDiff(A, B) {
 }
 ```
 ___
-#####Skill
+##### Skill
  Little knowledge of html, css, javascript, java, php
 
 Languages:
